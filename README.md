@@ -1,7 +1,6 @@
-# HijriCalendar
 README for the HijriCalendar
 ===========================
-QRG is QR Reader & Generator Barcode. You can easily save your generated Barcode or QR on your desktop by pressing save button.
+HijriCalendar is The Hijri Calendar Program is an application that allows you to accurately track both the Hijri and Gregorian dates, with an easy conversion feature between them.
 
 Links:
 ======
