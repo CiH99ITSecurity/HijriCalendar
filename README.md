@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/QRG-Barcode/refs/heads/main/QRGBarcode.png)
+![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/HijriCalendar/refs/heads/main/HijriCalendar.png)
 
 README for the HijriCalendar
 ===========================
